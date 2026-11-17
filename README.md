@@ -1,6 +1,6 @@
 # ¡Hola, soy David! 👋
 
-**Docente · Desarrollador de Software · Me adapto a cualquier entorno: software, hardware o redes**
+**Desarrollador de Software · Me adapto a cualquier entorno: software, hardware o redes**
 
 Construyo herramientas tecnológicas reales para el ámbito educativo — desde plataformas interactivas de aula hasta sistemas de gestión escolar en producción.
 
